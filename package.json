@@ -1,7 +1,13 @@
 {
+  "scripts": {
+    "start": "node ."
+  },
   "name": "3",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "task_3.js",
   "author": "Ekaterina Budon <ekaterinabudon@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
